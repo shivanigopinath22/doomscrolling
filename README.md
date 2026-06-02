@@ -186,6 +186,7 @@ The core computer vision functionality is cross-platform. However, users may nee
 ---
 - Weekly focus reports
 
+- Self-improvement and digital wellbeing
 ## Demo
 
 Screenshots or demonstration videos can be added here.
@@ -237,3 +238,4 @@ M.Sc. Artificial Intelligence & Machine Learning
 Vellore Institute of Technology
 
 GitHub: https://github.com/shivanigopinath22
+
