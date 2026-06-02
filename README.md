@@ -184,6 +184,7 @@ The core computer vision functionality is cross-platform. However, users may nee
 - AI-generated motivational interventions
 
 ---
+- Weekly focus reports
 
 ## Demo
 
